@@ -1,7 +1,5 @@
-# SE3309_2022_Assignment_4
+# Picture This - Movie Reccommendation Website
 
-This repository contains 2 folders to be used to manage your final project assignment. 
+Created by a group of 4 using Javascript, HTML, CSS, REact, Node.js, and MySQL. 
 
-The APP folder is where you should commit all the code for your web application. 
-
-The DUMP folder should contain the database .dump file required to re-create your database and ALL of it's data. 
+Users can create an account, browse for movies, create history/watchlist
